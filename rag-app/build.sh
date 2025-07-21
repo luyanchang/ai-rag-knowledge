@@ -1,0 +1,1 @@
+docker build -t luyanchang1104/ai-rag-knowledge-app:1.2 -f ./Dockerfile .
